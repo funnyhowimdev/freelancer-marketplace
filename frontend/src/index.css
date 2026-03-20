@@ -1,0 +1,17 @@
+.@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles */
+body {
+    font-family: 'Helvetica', sans-serif;
+    background-color: #f9fafb;
+    color: #1f2937;
+}
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+p {
+    line-height: 1.5;
+}
